@@ -39,3 +39,15 @@ padding: 80px 58px 0px 59px;}
     font-weight: 700;
     padding-top: 30px;
     text-decoration-line: underline;}
+.support-container{display: flex;text-align: center;justify-content: space-around;border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);margin:0px 200px 80px 200px ;padding: 60px 0px 60px 0px;}
+.deal-container{display: flex;align-items: center;justify-content:space-around;border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);padding: 50px 100px 50px 100px;}
+.deal-title{color: #272727;
+    font-size: 30px;
+    font-weight: 800;padding-bottom: 30px;}
+.deal-description{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;padding-bottom: 30px;}
+.deal{text-align: center;}
