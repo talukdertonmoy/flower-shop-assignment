@@ -6,7 +6,7 @@ align-items: center;
 gap: 85px;
 padding: 40px 150px 0px 150px;background: rgba(229, 84, 115, 0.10);}
 .header-title{color: #272727;
-    font-size:55px;
+    font-size:60px;
     font-weight: 800;
 }
 .header-flower{width: 550px;}
@@ -28,7 +28,7 @@ padding: 80px 58px 0px 59px;}
 .second-header-title{text-align: center;
     color: #272727;
     font-size: 35px;
-    font-weight: 800;padding-top: 150px;}
+    font-weight: 800;padding: 130px 0px 30px 0px;}
 .second-header-description{color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 16px;
@@ -69,8 +69,21 @@ padding: 80px 58px 0px 59px;}
     text-align: center;
     font-size: 14px;
     font-weight: 400;padding-bottom: 40px;}
-.subscribe{background-image: url('../Flower asset/Rectangle\ 9.png');background-repeat: no-repeat;background-size: 70%;background-position: center;margin-bottom: 100px;padding-bottom: 180px;}
+.subscribe{background-image: url('../Flower asset/Rectangle\ 9.png');background-repeat: no-repeat;background-size: 70%;background-position: center;margin-bottom: 30px;padding-bottom: 180px;}
 .email{width: 500px;height: 47px;border: none;border-radius: 8px;color: rgba(39, 39, 39, 0.60);padding-left: 15px;
     font-size: 13px;
     font-weight: 400;}
 #so{padding-right: 15px;}
+.footer-title{color:white;
+    font-size: 37px;
+    font-weight: 800;
+text-align: center;}
+.footer-description{color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;padding: 15px 0px 20px 0px;}
+.copyright{color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;}
+.footer{background: #111010;padding: 70px 0px 100px 0px;}
