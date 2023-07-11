@@ -69,7 +69,7 @@ padding: 80px 58px 0px 59px;}
     text-align: center;
     font-size: 14px;
     font-weight: 400;padding-bottom: 40px;}
-.subscribe{background-image: url('../Flower asset/Rectangle\ 9.png');background-repeat: no-repeat;background-size: 70%;background-position: center;margin-bottom: 30px;padding-bottom: 180px;}
+.subscribe{background-image: url("../Flower Asset/Rectangle 9.png");background-repeat: no-repeat;background-size: 70%;background-position: center;margin-bottom: 30px;padding-bottom: 180px;}
 .email{width: 500px;height: 47px;border: none;border-radius: 8px;color: rgba(39, 39, 39, 0.60);padding-left: 15px;
     font-size: 13px;
     font-weight: 400;}
